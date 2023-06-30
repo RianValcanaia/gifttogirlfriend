@@ -1,7 +1,7 @@
 # Página da Web de Aniversário. 
 Olá, bem vindo!
 
-Esta é uma página que desevolvi para a minha namorada, nesta página contém uma aba inicial, outra contém uma carta (de amor e bolotinhas, sugiro pular esta página) e outra página contendo fotos nossas.
+Esta é uma página que desevolvi para a minha namorada, nesta página contém uma aba inicial, outra contém uma carta (de amor e bolotinhas, sugiro pular esta página) e outra página contendo fotos nossas. É importante salientar que é um gift e estou iniciando na programação front-end então o que contém na página são funcionalidades básicas de estilização, aceito sugestões de melhorias.
 
 ## 🔨 Ferramentas utilizadas:
 > HTML
